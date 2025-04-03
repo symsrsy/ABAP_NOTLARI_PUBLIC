@@ -32,7 +32,7 @@ ENDCLASS.
 
 
 DATA:go_math_op TYPE REF TO math_op.
-START_OF_SELECTION.
+START-OF-SELECTION.
 
 CREATE OBJECT:go_math_op.
 CREATE OBJECT:math_op_diff.
